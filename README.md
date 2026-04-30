@@ -91,7 +91,7 @@ Melihat hubungan antara:
 
 ## 📷 Dokumentasi
 - Grafik tren penjualan
-![Grafik Penjualan](output\grafik_penjualan.png)
+![Grafik Penjualan](output/grafik_penjualan.png)
 - Bar chart kategori
 ![Kategori](output\kategori_penjualan.png)
 - Heatmap korelasi
